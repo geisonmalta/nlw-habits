@@ -34,15 +34,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://geisonmalta.github.io/nlw-habits/)
+
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/meJnormZJJO4RKREWa1CUa/Habits-(e)-(Community)?node-id=6%3A344&t=oVIu8334jbWn1O9t-0). 
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
 
 ---
 
